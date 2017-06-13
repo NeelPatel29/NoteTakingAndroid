@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/camera"
+        android:title=""
+        android:icon="@android:drawable/ic_menu_camera"
+        app:showAsAction="always"/>
+    <item android:id="@+id/location"
+        android:title="+"
+        android:icon="@android:drawable/ic_dialog_map"
+        app:showAsAction="always"/>
+    <item android:id="@+id/save"
+        android:title="+"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NoteTakingAndroid</string>
+    <string name="title_activity_note_taking">NoteTaking</string>
+</resources>
